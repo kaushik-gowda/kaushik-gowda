@@ -1,5 +1,5 @@
 # 💫 About Me:
-Iam a passionate Tech Coder!!
+Iam a passionate Tech Programmer!!
 
 
 ## 🌐 Socials:
