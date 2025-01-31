@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Iam a passionate Tech Programmer!!
 
 
